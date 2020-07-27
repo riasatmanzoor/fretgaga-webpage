@@ -1,2 +1,2 @@
-# rizzy-webpage
+# fretgaga-webpage
 my website
